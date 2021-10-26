@@ -1,6 +1,6 @@
 # Frontend Mentor - Huddle landing page with curved sections solution
 
-This is a solution to the [Huddle landing page with curved sections challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-curved-sections-5ca5ecd01e82137ec91a50f2). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Huddle landing page with curved sections challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-curved-sections-5ca5ecd01e82137ec91a50f2). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -14,8 +14,11 @@ This is a solution to the [Huddle landing page with curved sections challenge on
   - [Continued development](#continued-development)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
+
 ## Overview
+
 This project is made using the VueJS along with tailwind css. It provide the concept landing page of the huddle.
+
 ### The challenge
 
 Users should be able to:
@@ -26,10 +29,11 @@ Users should be able to:
 ### Screenshot
 
 ![](./screenshot.png)
+
 ### Links
 
-- Solution URL: [Github](https://github.com/munezerobagira/100_days_of_code)
-- Live Site URL: [Click here](https://sostene-1.netlify.app/)
+- Solution URL: [Github](https://github.com/munezerobagira/huddle-basic)
+- Live Site URL: [Click here](https://huddle-basic.vercel.app/)
 
 ## My process
 
@@ -43,6 +47,7 @@ Users should be able to:
 - [ViteJS](https://vitejs.dev/)
 
 ### What I learned
+
 - Tailwind Flexbox
 - Tailwind Configuration
 
@@ -58,4 +63,4 @@ On way to my second challenge in #100DaysOfCode
 
 ## Acknowledgments
 
-I want  to all my wonderful family and friends for their endless motivation
+I want to all my wonderful family and friends for their endless motivation
